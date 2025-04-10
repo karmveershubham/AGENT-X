@@ -30,7 +30,8 @@
 2. **Install dependencies**
    ```bash
    npm install
-3.**Environment VAriables**
+
+3. **Environment Variables**
     ```bash
     TWITTER_API_KEY=your-app-key
     TWITTER_API_SECRET=your-app-secret
